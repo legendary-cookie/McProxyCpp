@@ -1,0 +1,6 @@
+[submodule "lib/sockpp"]
+	path = lib/sockpp
+	url = https://github.com/fpagliughi/sockpp
+[submodule "lib/logpp"]
+	path = lib/logpp
+	url = https://github.com/legendary-cookie/logpp
